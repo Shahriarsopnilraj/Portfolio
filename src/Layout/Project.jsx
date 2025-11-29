@@ -26,7 +26,7 @@ const projects = [
     desc: "Todo app with create/read/update/delete functionality, priority & due-date tagging, filtering/search",
     tech: ["React", "API", "CSS Grid"],
     img: "https://i.ibb.co.com/JRb0hjg7/To-Do.png",
-    demo: "https://incandescent-peony-59673f.netlify.app/",
+    demo: "https://2nd-to-do.vercel.app/",
     code: "https://github.com/Shahriarsopnilraj/2nd_To_Do",
   },
 ];
