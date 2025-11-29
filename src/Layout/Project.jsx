@@ -8,7 +8,7 @@ const projects = [
     desc: "A full-featured online store built with React, Context API, and Tailwind CSS. Includes product filters, cart, and checkout system.",
     tech: ["React", "Tailwind", "Context API"],
     img: "https://i.ibb.co.com/r2hTSpxf/banner.jpg",
-    demo: "https://lively-fudge-95d5a3.netlify.app/",
+    demo: "https://movie-site-clone-nine.vercel.app/",
     code: "https://github.com/Shahriarsopnilraj/Movie_site_clone",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
     desc: "A personal portfolio website showcasing projects, skills, and contact info with a smooth scroll and responsive design.",
     tech: ["React", "Framer Motion", "Tailwind"],
     img: "https://i.ibb.co.com/JjxdTZ8G/basket-full-vegetables.png",
-    demo: "https://incandescent-peony-59673f.netlify.app/",
+    demo: "https://grocery-w-react.vercel.app/",
     code: "https://github.com/Shahriarsopnilraj/Grocery_w_React",
   },
   {
