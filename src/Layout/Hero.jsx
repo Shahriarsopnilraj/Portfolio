@@ -54,7 +54,7 @@ const HeroSection = () => {
           <img
             src={Profile}
             alt="Profile"
-            className="w-72 md:w-[400px] rounded-full shadow-lg border-4 border-indigo-100"
+            className="w-62 md:w-[400px] rounded-full shadow-lg border-4 border-indigo-100"
           />
         </div>
       </div>
