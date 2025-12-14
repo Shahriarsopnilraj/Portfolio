@@ -15,8 +15,6 @@ const Contact = () => {
             Feel free to reach out — I’d love to connect and collaborate!
           </p>
         </div>
-
-        {/* Contact Grid */}
         <div className="flex flex-col items-center justify-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold mb-4">
@@ -35,7 +33,7 @@ const Contact = () => {
                 <FaMapMarkerAlt className="text-indigo-600 text-xl" /> Dhaka, Bangladesh
               </p>
             </div>
-            <button className="flex justify-center p-3">
+            <button className="flex justify-center md:p-3 p-2">
               <a href="mailto:shahriarsopnilraj@gmail.com" className="flex gap-3 items-center p-5 bg-gray-600 rounded-md text-2xl">
                 <FaEnvelope className="text-indigo-600 text-2xl" /> shahriarsopnilraj@gmail.com
               </a>

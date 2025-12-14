@@ -44,7 +44,7 @@ const About = () => {
 
           {/* Button */}
           <a
-            href="/Resume.pdf"
+            href="https://i.ibb.co.com/gFhBh6Xh/Md-Shahriar-Sopnil-Raj.png"
             download
             className="inline-block bg-indigo-600 text-white px-6 py-3 rounded-full mt-5 hover:bg-indigo-700 transition-all"
           >
